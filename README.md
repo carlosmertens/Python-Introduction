@@ -27,8 +27,8 @@ python cylinder_volume.py
 
 ## Authors
 
-* **Carlos Mertens** - *Initial work*
-* **Udacity - Introduction to Python
+* **Carlos Mertens** - *Student*
+* **Udacity** - *Introduction to Python Instructors*
 
 ## Acknowledgments
 
